@@ -1,6 +1,3 @@
 hello world how are you 
 
-i am fine thank yo
-
-
-added new  line show me the diff u
+i am fine thank you
